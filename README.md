@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Full Stack Open](https://github.com/tan-at/fullstack_palautukset)
 
-- 🌱 I’m currently learning **React, general web-development & university mathematics**
+- 🌱 I’m currently learning **React, general fullstack web-development & university mathematics**
 
 - 🤝 I’m volunteering at **Skripti ry handling Corporate Relations**
 
