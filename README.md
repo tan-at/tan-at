@@ -9,7 +9,7 @@
 
 - 🤝 I’m volunteering at **Skripti ry handling Corporate Relations**
 
-- 👨‍💻 My Web projects are available at [https://github.com/tan-at/WebProjects](https://github.com/tan-at/WebProjects) & [https://github.com/tan-at/fullstack_palautukset](https://github.com/tan-at/fullstack_palautukset). My data projects can be found at [https://github.com/tan-at/PortfolioProjects](https://github.com/tan-at/PortfolioProjects)
+- 👨‍💻 My Web projects are available at [https://github.com/tan-at/WebProjects](https://github.com/tan-at/WebProjects) & [https://github.com/tan-at/fullstack_palautukset](https://github.com/tan-at/fullstack_palautukset). My data projects can be found at [https://github.com/tan-at/DataProjects](https://github.com/tan-at/DataProjects)
 
 - ⚡ Fun fact **I love reading about anything and everything**
 
