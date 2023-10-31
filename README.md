@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tan-at&label=Profile%20views&color=0e75b6&style=flat" alt="tan-at" /> </p>
 
-- 🔭 I’m currently working on [Full Stack Open](https://github.com/tan-at/fullstack_palautukset)
-
 - 🌱 I’m currently working on my master's in Computer Science at Tampere University
 
 - 🤝 I’m volunteering at **Skripti ry handling Corporate Relations**
 
-- 👨‍💻 My Web projects are available at [https://github.com/tan-at/WebProjects](https://github.com/tan-at/WebProjects) & [https://github.com/tan-at/fullstack_palautukset](https://github.com/tan-at/fullstack_palautukset). My data projects can be found at [https://github.com/tan-at/DataProjects](https://github.com/tan-at/DataProjects)
+- 👨‍💻 My portfolio page can be found at [https://tanskanen-portfolio.onrender.com/](https://tanskanen-portfolio.onrender.com/)
+
+- 💻 My Web projects are available at [https://github.com/tan-at/WebProjects](https://github.com/tan-at/WebProjects) & [https://github.com/tan-at/fullstack_palautukset](https://github.com/tan-at/fullstack_palautukset). My data projects can be found at [https://github.com/tan-at/DataProjects](https://github.com/tan-at/DataProjects)
 
 - ⚡ Fun fact **I love reading about anything and everything**
 
