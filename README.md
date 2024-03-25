@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently working on my master's in Computer Science at Tampere University
 
-- 🤝 I’m volunteering at **Skripti ry handling Corporate Relations**
-
 - 👨‍💻 My portfolio page can be found at [https://tanskanen-portfolio.onrender.com/](https://tanskanen-portfolio.onrender.com/) and the source code for it at [https://github.com/tan-at/Portfoliosivu](https://github.com/tan-at/Portfoliosivu)
 
 - 💻 My Web projects are available at [https://github.com/tan-at/WebProjects](https://github.com/tan-at/WebProjects) & [https://github.com/tan-at/fullstack_palautukset](https://github.com/tan-at/fullstack_palautukset). My data projects can be found at [https://github.com/tan-at/DataProjects](https://github.com/tan-at/DataProjects)
